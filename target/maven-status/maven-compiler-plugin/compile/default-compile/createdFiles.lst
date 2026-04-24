@@ -1,0 +1,5 @@
+com\apifamilia\backend\controller\IntegranteController.class
+com\apifamilia\backend\ApiFamiliaMonsivaisApplication.class
+com\apifamilia\backend\config\DataInitializer.class
+com\apifamilia\backend\model\Integrante.class
+com\apifamilia\backend\repository\IntegranteRepository.class

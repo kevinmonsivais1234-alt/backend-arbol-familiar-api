@@ -1,0 +1,15 @@
+C:\Users\kevin\OneDrive\Documentos\APIFamilia-Monsivais\backend\src\main\java\com\apifamilia\backend\ApiFamiliaMonsivaisApplication.java
+C:\Users\kevin\OneDrive\Documentos\APIFamilia-Monsivais\backend\src\main\java\com\apifamilia\backend\config\DataInitializer.java
+C:\Users\kevin\OneDrive\Documentos\APIFamilia-Monsivais\backend\src\main\java\com\apifamilia\backend\controller\AuthController.java
+C:\Users\kevin\OneDrive\Documentos\APIFamilia-Monsivais\backend\src\main\java\com\apifamilia\backend\controller\IntegranteController.java
+C:\Users\kevin\OneDrive\Documentos\APIFamilia-Monsivais\backend\src\main\java\com\apifamilia\backend\dto\auth\AuthResponse.java
+C:\Users\kevin\OneDrive\Documentos\APIFamilia-Monsivais\backend\src\main\java\com\apifamilia\backend\dto\auth\GoogleLoginRequest.java
+C:\Users\kevin\OneDrive\Documentos\APIFamilia-Monsivais\backend\src\main\java\com\apifamilia\backend\dto\auth\LoginRequest.java
+C:\Users\kevin\OneDrive\Documentos\APIFamilia-Monsivais\backend\src\main\java\com\apifamilia\backend\dto\auth\RegisterRequest.java
+C:\Users\kevin\OneDrive\Documentos\APIFamilia-Monsivais\backend\src\main\java\com\apifamilia\backend\model\Integrante.java
+C:\Users\kevin\OneDrive\Documentos\APIFamilia-Monsivais\backend\src\main\java\com\apifamilia\backend\model\ProveedorAuth.java
+C:\Users\kevin\OneDrive\Documentos\APIFamilia-Monsivais\backend\src\main\java\com\apifamilia\backend\model\Usuario.java
+C:\Users\kevin\OneDrive\Documentos\APIFamilia-Monsivais\backend\src\main\java\com\apifamilia\backend\repository\IntegranteRepository.java
+C:\Users\kevin\OneDrive\Documentos\APIFamilia-Monsivais\backend\src\main\java\com\apifamilia\backend\repository\UsuarioRepository.java
+C:\Users\kevin\OneDrive\Documentos\APIFamilia-Monsivais\backend\src\main\java\com\apifamilia\backend\service\AuthService.java
+C:\Users\kevin\OneDrive\Documentos\APIFamilia-Monsivais\backend\src\main\java\com\apifamilia\backend\service\IntegranteService.java
